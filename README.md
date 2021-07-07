@@ -8,7 +8,7 @@ JSP 기반 웹 프로젝트
     - Eclipse IDE
     - JAVA 8. JDK 1.8
     - Oracle 11g xe
-    - Apache Tomvat 8.5
+    - Apache Tomcat 8.5
     - Selenium 3.141
     - Mybatis 3.5.4
     - DBeaver
