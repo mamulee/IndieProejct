@@ -14,6 +14,6 @@ JSP 기반 웹 프로젝트
     - DBeaver
 - 사용 API
     - kakaoLogin API
-    - Naver main API
+    - Naver mail API
     - JSTL
     - Import API
